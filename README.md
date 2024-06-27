@@ -56,11 +56,11 @@ specialist: financial, trade & logistics, discrete manufacturing, process manufa
 ---
 
 
-![oumayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedabuemira&show_icons=true&count_private=true)
+![oumayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuemira91&show_icons=true&count_private=true)
 
 [linkedin]: https://www.linkedin.com/in/mohamedabuemira
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabuemira&layout=compact&langs_count=8)](https://github.com/mohamedabuemira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuemira91&layout=compact&langs_count=8)](https://github.com/abuemira91/github-readme-stats)
 
 
 <div align="center">
