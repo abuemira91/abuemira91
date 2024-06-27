@@ -11,7 +11,7 @@
 
 
 ## About
-#I'm Odoo Techno Functional with real experience in implementing financial and  supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.with experience implementing financial and supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.
+#I'm Odoo Techno Functional with real experience in implementing financial and  supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation. with experience implementing financial and supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.
 specialist: financial, trade & logistics, discrete manufacturing, process manufacturing, HR, Real estate.
 
 ## modules & apps  
@@ -41,7 +41,7 @@ specialist: financial, trade & logistics, discrete manufacturing, process manufa
 - Business Analyst •
 - User Training •
 - Financial Accounting •
-- onsolidation multi-company •
+- consolidation multi-company •
 - Supply Chain Management •
 - Sales and CRM •
 - Business Process •
@@ -52,15 +52,6 @@ specialist: financial, trade & logistics, discrete manufacturing, process manufa
 
    
 
-
----
-
-
-![oumayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuemira91&show_icons=true&count_private=true)
-
-[linkedin]: https://www.linkedin.com/in/mohamedabuemira
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuemira91&layout=compact&langs_count=8)](https://github.com/abuemira91/github-readme-stats)
 
 
 <div align="center">
